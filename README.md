@@ -4,7 +4,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-Capstone-blue?style=for-the-badge)
 
 **EcoIntelligence** adalah platform dashboard web interaktif yang dirancang untuk memantau, menganalisis, dan melaporkan metrik keberlanjutan lingkungan serta emisi karbon perusahaan secara terpusat dan *real-time*. Proyek ini dikembangkan sebagai bagian dari **Capstone Project IBM SkillsBuild x Hacktiv8** menggunakan metode *vibe coding* dan *Prompt Engineering* berbasis **IBM Bob**.
 
@@ -12,18 +11,18 @@
 
 ## 📌 Fitur Utama
 
-- 📊 **Monitoring Metrik Utama (KPI):** Memantau emisi emisi karbon ($\text{CO}_2$), tingkat penggunaan energi terbarukan, konsumsi air, dan *waste recycling rate*.
-- 📈 **Visualisasi Data Interaktif:** Grafik tren bulanan dan grafik distribusi limbah berbasis **Chart.js**.
-- 🔍 **Filter Dinamis:** Memantau data berdasarkan filter kawasan (*Region*) dan departemen perusahaan.
-- 👤 **Manajemen Profil Terintegrasi:** Fitur pembaruan profil pengguna (nama & avatar) yang tersimpan secara persisten menggunakan `localStorage`.
-- 🔐 **Autentikasi Sederhana:** Halaman login terpisah (`login.html`) serta alur *Sign Out* yang aman.
-- 📱 **Desain Modern & Responsif:** Tampilan UI/UX modern bernuansa keberlanjutan yang dibangun menggunakan **Tailwind CSS**.
+- **Monitoring Metrik Utama (KPI):** Memantau emisi emisi karbon ($\text{CO}_2$), tingkat penggunaan energi terbarukan, konsumsi air, dan *waste recycling rate*.
+- **Visualisasi Data Interaktif:** Grafik tren bulanan dan grafik distribusi limbah berbasis **Chart.js**.
+- **Filter Dinamis:** Memantau data berdasarkan filter kawasan (*Region*) dan departemen perusahaan.
+- **Manajemen Profil Terintegrasi:** Fitur pembaruan profil pengguna (nama & avatar) yang tersimpan secara persisten menggunakan `localStorage`.
+- **Autentikasi Sederhana:** Halaman login terpisah (`login.html`) serta alur *Sign Out* yang aman.
+- **Desain Modern & Responsif:** Tampilan UI/UX modern bernuansa keberlanjutan yang dibangun menggunakan **Tailwind CSS**.
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **Frontend:** HTML5, Tailwind CSS (via CDN), Vanilla JavaScript (ES6+)
+- **Frontend:** HTML5, Tailwind CSS (CDN), Vanilla JavaScript (ES6+)
 - **Visualisasi Data:** Chart.js
 - **Penyimpanan Lokal:** `localStorage` API
 - **AI Development Assistant:** IBM Bob (Vibe Coding with 3-Layer Prompt Engineering)
@@ -68,7 +67,8 @@ Proyek ini dibangun melalui pendekatan **3-Layer Prompting**:
 
 ---
 
-## 👤 Penulis
+## 👤 Developed By
 
-**Akfina N**  
+**Akfina N.**  
 *Capstone Project - IBM SkillsBuild x Hacktiv8*
+
